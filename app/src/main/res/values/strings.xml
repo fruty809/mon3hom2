@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mon3hom2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1_click">-1 click</string>
+    <string name="_1_click_plus">+1 click</string>
+    <string name="_0">0</string>
+    <string name="_10">you win )</string>
+</resources>
